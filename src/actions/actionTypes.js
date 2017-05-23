@@ -1,0 +1,4 @@
+
+export const LOADING_DATA = 'LOADING_DATA';
+export const DONE_LOADING_DATA = 'DONE_LOADING_DATA';
+export const SET_MOVIES = 'SET_MOVIES';
