@@ -2,6 +2,6 @@
 
 ## How to Start?
 
-First: Clone repository
-Instal Dependencies: (npm || yarn) install
-Run: (npm || yarn) start
+1. First: Clone repository
+2. Install Dependencies: (npm || yarn) install
+3. Run: (npm || yarn) start
